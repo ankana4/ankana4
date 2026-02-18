@@ -1,30 +1,92 @@
-![Header](https://github.com/ankana4/ankana4/blob/main/github-header-image%20(1).png)
-<h2 align="center">👨‍💻 Backend Developer in the Making | Enthusiastic Learner | MCA Student 📚</h2>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankana4&label=Profile%20views&color=0e75b6&style=flat" alt="ankana4" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ankanamajee" target="blank"><img src="https://img.shields.io/twitter/follow/ankanamajee?logo=twitter&style=for-the-badge" alt="ankanamajee" /></a> </p>
-
-- 🔭 I’m currently working on **Blog Application**
-
-- 🌱 I’m currently learning **Django, Flask, Python, DSA**
-
-- 📫 How to reach me **majeeankana4@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankanamajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankanamajee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankanamajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankanamajee" height="30" width="40" /></a>
-<a href="https://instagram.com/ankana_majee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankana_majee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@majeeankana4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@majeeankana4" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/ankana4/ankana4/blob/3e46628c6e0d1a45cef2fc7a109cd8eecd3eefd7/ChatGPT%20Image%20Feb%2018%2C%202026%2C%2011_32_01%20PM.png" width="100%" alt="Header"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">Backend Engineer • FastAPI • Django • Systems-Focused Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankana4&show_icons=true&locale=en&layout=compact" alt="ankana4" /></p>
+<p align="center">
+Building scalable backend systems, production-ready APIs, and reliable service architectures.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankana4&show_icons=true&locale=en" alt="ankana4" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankana4&" alt="ankana4" /></p>
+## 🧠 Engineering Profile
+
+Backend-focused developer with hands-on experience in API design, authentication systems, containerized deployments, and observability integration.
+
+I enjoy designing clean service architectures and building backend systems that are scalable, maintainable, and production-ready.
+
+- ⚙️ Backend: FastAPI, Django, Flask  
+- 🗄️ Databases: PostgreSQL, MySQL, MongoDB  
+- 🐳 Containerization: Docker  
+- 📊 Monitoring: Prometheus + Grafana  
+- 🔐 Authentication & Role-Based Access Control  
+- 📈 Strengthening system design & DSA fundamentals  
+
+---
+
+## 🛠 Technical Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=00E5A8"/>
+<img src="https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=00C853"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4FC3F7"/>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=81C784"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=42A5F5"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFD54F"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FFFFFF"/>
+
+</div>
+
+---
+
+## 🚀 Selected Work
+
+### 🔹 Observability-Integrated FastAPI Service  
+FastAPI application instrumented with Prometheus metrics and visualized via Grafana dashboards.  
+Designed for production-grade monitoring and backend reliability.
+
+### 🔹 Dockerized CRUD API System  
+Containerized FastAPI backend with structured project architecture and database integration.  
+Designed for clean deployment and scalability.
+
+### 🔹 Authentication & Access Control Module  
+Secure token-based authentication with role-based authorization logic and protected endpoints.
+
+---
+
+## 📊 GitHub Overview
+
+Backend-focused repositories emphasizing:
+- Containerized deployments
+- Observability integration
+- Authentication systems
+- Scalable RESTful APIs
+
+---
+
+## 🏗 Engineering Interests
+
+- Scalable Backend Architectures  
+- API Performance Optimization  
+- Microservices Design  
+- Observability & Monitoring  
+- Secure Authentication Systems  
+- Production Deployment Workflows  
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/ankanamajee">LinkedIn</a> •
+<a href="https://twitter.com/ankanamajee">Twitter</a> •
+<a href="mailto:majeeankana4@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+Focused on clean architecture • Reliable APIs • Production-grade backend systems
+</p>
